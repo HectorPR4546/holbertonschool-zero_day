@@ -1,2 +1,2 @@
 Git Class
-Practices of hit commans and managing yor Github
+Practices of git commans and managing yor Github
